@@ -49,5 +49,9 @@ pip install -r requirements.txt
 - Deploy Student model on edge devices.
 
 ## 🙌 Credits
-Team Members: (Add names here)  
+Team Members:
+Tarun A - @ATR318
+Kavin Karthik A - @Krypton-KK
+Santhosh - @Santhosh75-dom
+Sri Anish G - @SriAnish189
 Inspired by Hinton et al., Distilling the Knowledge in a Neural Network (2015)
