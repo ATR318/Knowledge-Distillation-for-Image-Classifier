@@ -54,4 +54,5 @@ Team Members:
 - Kavin Karthik A - @Krypton-KK
 - Santhosh - @Santhosh75-dom
 - Sri Anish G - @SriAnish189
+-----
 Inspired by Hinton et al., Distilling the Knowledge in a Neural Network (2015)
