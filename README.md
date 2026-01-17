@@ -27,7 +27,7 @@ We experimented on **CIFAR-10** and **Fashion-MNIST** datasets.
 
 ## 🚀 Requirements
 - Python 3.x
-- TensorFlow / PyTorch
+- TensorFlow or PyTorch
 - Numpy, Matplotlib, etc.  
 
 Install dependencies:
